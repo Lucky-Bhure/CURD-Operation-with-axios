@@ -1,6 +1,5 @@
 .main-app-container {
     width: 90vw;
-    margin-left: 2rem;
 }
 
 .post-container {
@@ -15,5 +14,9 @@
         display: grid;
         grid-template-columns: repeat(1, 1fr);
         gap: 2rem;
+    }
+
+    .main-app-container {
+        margin-left: 2rem;
     }
 }
