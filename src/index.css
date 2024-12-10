@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+  color-scheme: light dark;
+  color: rgba(0, 0, 0, 0.87);
+  background-color: rgb(255, 255, 255);
+
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 0rem;
+}
+
